@@ -1,9 +1,9 @@
-import Linktree from "./components/Linktree";
+import Wish from "./components/Wish";
 
 function App() {
   return (
     <>
-      <Linktree />
+      <Wish />
     </>
   );
 }
