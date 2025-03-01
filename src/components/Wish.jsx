@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-const Linktree = () => {
+const Wish = () => {
   const [name, setName] = useState("");
   const [isLoggedIn, setIsLoggedIn] = useState(false);
 
@@ -47,4 +47,4 @@ const Linktree = () => {
   );
 };
 
-export default Linktree;
+export default Wish;
